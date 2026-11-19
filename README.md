@@ -54,8 +54,4 @@ An independent software project created and developed by Arman Eslami in Iran.
 *An independent software project. Not affiliated with or endorsed by Adobe.*
 ## Official Logo
 
-![Photo A.E Logo](logo.png)
-
-## Application Preview
-
-![Photo A.E Interface](Photo_AE_Screenshot_Enhanced.jpg)
+![Photo A.E Official Logo](photo_ae_logo_actual.png)
