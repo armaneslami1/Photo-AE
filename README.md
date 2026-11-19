@@ -55,3 +55,6 @@ An independent software project created and developed by Arman Eslami in Iran.
 ## Official Logo
 
 ![Photo A.E Official Logo](photo_ae_logo_actual.png)
+## Application Preview
+
+![Photo A.E Interface](Photo_AE_Screenshot_Enhanced.jpg)
